@@ -1,0 +1,8 @@
+COMANDOS DE GIT AL CREAR UN REPOSITORIO
+echo "# dllo-web-frontend" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/paulinavelasquezc/dllo-web-frontend.git
+git push -u origin master
+                
